@@ -1,20 +1,20 @@
 .bg{
-    color: black;
+    color: rgb(0, 0, 0);
     font-weight: 600;
   }
 
   .ab{
-    color: rgb(0, 0, 0);
-    font-size: 1.5em;
+    color: rgb(108, 221, 215);
+    font-size: 2.5em;
     font-weight: 800;
   }
   .abi{
-    color: rgb(0, 0, 0);
+    color: rgb(30, 178, 223);
     font-size: 3.5em;
     font-weight: 800;
   }
   .bgi{
-    color: rgba(0, 0, 0, 0.884);
+    color: rgba(57, 234, 240, 0.884);
     font-size: 1.5em;
     font-weight: 600;
   }
@@ -44,4 +44,16 @@
 }
 .margin{
     margin: 20px 90px;
+}
+.d{
+  padding: 10px;
+}
+
+.b{
+  background-color: aqua;
+}
+.half{
+  width: 100%;
+  padding: 50px;
+  border-radius: 25px;
 }
